@@ -2,12 +2,13 @@
 
 ### :writing_hand: I am a BCA student at Dezyne E'cole College.
 
-### :office: Currently wrok for the BITWIT Technology as a MERN stack developer.
-### :grinning: I am a web enthusiast and always ready to learn new things in web devlopment.
+### :office: Currently working for the BITWIT Technology as a MERN stack developer.
+
+### :grinning: I am a web enthusiast and always ready to learn new things in web development.
 
 ### :heart_eyes: I love to slove problem.
 
-### :monocle_face: I seeking for more learning oppourtunities.
+### :monocle_face: I seeking for more learning opportunities.
 
 ## Status Card
 
