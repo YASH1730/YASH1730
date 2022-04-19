@@ -19,7 +19,7 @@
 
 
 ## Socila Handels 
-<div style = "display:flex; gap : 20px; align-items: center; justify-content : center"> 
+<div style = "display:flex; gap : 20px; flex-direction : row; align-items: center; justify-content : center"> 
 
 <a href="https://www.instagram.com/_yash_3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/instagram.svg"  alt="Intagram" width="25px"/></a>
 
