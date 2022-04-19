@@ -1,7 +1,8 @@
-# Hi, happy to have you here
+# Hi, happy to have you here :star_struck:
 
-### I am a web enthusiest and always ready to learn new things in web devlopment.
+### :grinning: I am a web enthusiast and always ready to learn new things in web devlopment.
 
-### I love slove problem.
+### :heart_eyes: I love slove problem.
 
-### I seeking for more learning oppourtunities.
+### :monocle_face: I seeking for more learning oppourtunities.
+
