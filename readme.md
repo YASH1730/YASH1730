@@ -8,7 +8,7 @@
 
 ### :heart_eyes: I love to slove problem.
 
-### :monocle_face: I seeking for more learning opportunities.
+### :monocle_face: I am seeking for more learning opportunities.
 
 ## Status Card
 
