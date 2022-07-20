@@ -6,7 +6,7 @@
 
 ### :grinning: I am a web enthusiast and always ready to learn new things in web development.
 
-### :heart_eyes: I love to slove problem.
+### :heart_eyes: I love to slove problems.
 
 ### :monocle_face: I am seeking for more challenges and learning opportunities.
 
