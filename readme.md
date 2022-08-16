@@ -25,9 +25,9 @@
 <a href="https://www.instagram.com/_yash_3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/instagram.svg"  alt="Intagram" width="25px"/></a>
 
 
-<a href="https://www.linkedin.com/in/yashwant-sahu-4309b8195/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/linkedin.svg"  alt="Intagram" width="25px"/></a>
+<a href="https://www.linkedin.com/in/yashwant-sahu-4309b8195/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/linkedin.svg"  alt="LinkedIn" width="25px"/></a>
 
-<a href="https://leetcode.com/yashwantsahu3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/leetcode.png"  alt="Intagram" width="25px"/></a>
+<a href="https://leetcode.com/yashwantsahu3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/leetcode.png"  alt="Leetcode" width="25px"/></a>
 
 
 </div>
