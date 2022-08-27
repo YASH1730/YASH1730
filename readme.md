@@ -10,6 +10,8 @@
 
 ### :monocle_face: I am seeking for more challenges and learning opportunities.
 
+### 😌 And also available for Freelance work 83020 43259.
+
 ## Status Card
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASH1730&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
