@@ -1,16 +1,16 @@
-# Hi :wave: , happy to have you here.
+## Hi :wave: , happy to have you here.
 
-### :writing_hand: I am pursuing MCA from Chandigarh University.
+#### :writing_hand: I am pursuing MCA from Chandigarh University.
 
-### :office: Currently working for the BITWIT Technology as a MERN stack developer.
+#### :office: Currently working for the BITWIT Technology as a MERN stack developer.
 
-### :grinning: I am a web enthusiast and always ready to learn new things in web development.
+#### :grinning: I am a web enthusiast and always ready to learn new things in web development.
 
-### :heart_eyes: I love to slove problems.
+#### :heart_eyes: I love to slove problems.
 
-### :monocle_face: I am seeking for more challenges and learning opportunities.
+#### :monocle_face: I am seeking for more challenges and learning opportunities.
 
-### 😌 And also available for Freelance work 83020 43259.
+#### 😌 And also available for Freelance work 83020 43259.
 
 ## Status Card
 
