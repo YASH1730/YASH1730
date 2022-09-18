@@ -10,7 +10,7 @@
 
 #### :monocle_face: I am seeking for more challenges and learning opportunities.
 
-#### 😌 And also available for Freelance work 83020 43259.
+#### 😌 And also available for Freelance work 83020 43259 & yashwantsahu3002@gmail.com .
 
 ## Status Card
 
