@@ -22,7 +22,7 @@
 
 
 ## Socila Handels 
-<div style = "display:flex; gap : 30px; flex-direction : row; align-items: center; justify-content : center"> 
+<p align = 'left'> 
 
 <a href="https://instagram.com/yashwant.sahu.3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/instagram.svg"  alt="Intagram" width="25px"/></a>
 
@@ -32,4 +32,4 @@
 
 <a href="https://leetcode.com/yashwantsahu3002/"><img src="https://raw.githubusercontent.com/YASH1730/YASH1730/master/images/leetcode.png"  alt="Leetcode" width="25px"/></a>
 
-</div> 
+</p> 
