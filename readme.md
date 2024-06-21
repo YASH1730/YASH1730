@@ -1,7 +1,5 @@
 ## Hi :wave: , happy to have you here.
 
-#### :writing_hand: I am pursuing MCA from Chandigarh University.
-
 #### :office: Currently working for the BITWIT Technology as a MERN stack developer.
 
 #### :grinning: I am a web enthusiast and always ready to learn new things in web development.
